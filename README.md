@@ -1,4 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm GUK IL KIM</h1>
+
 <h3 align="left">A Full-stack developer from San Jose</h3>
 
 
