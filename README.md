@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm GUK IL KIM</h1>
 <h3 align="left">A Full-stack developer from San Jose</h3>
 
-<!-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielkim12&label=Profile%20views&color=0e75b6&style=flat" alt="danielkim12" /> </p>
--->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielkim12" alt="danielkim12" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielkim12&label=Profile%20views&color=0e75b6&style=flat" alt="danielkim12" /> </p>
+
+<!-- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielkim12" alt="danielkim12" /></a> </p> -->
 
 - 🔭 I’m currently working on **Shopgirly**
 
