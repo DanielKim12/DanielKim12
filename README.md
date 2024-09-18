@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GUK IL KIM</h1>
-<h3 align="center">A hardworking Full-stack developer from San Jose</h3>
+<h3 align="center">A Full-stack developer from San Jose</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielkim12&label=Profile%20views&color=0e75b6&style=flat" alt="danielkim12" /> </p>
 
