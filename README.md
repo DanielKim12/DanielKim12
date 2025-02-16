@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gukilkim.com/](https://gukilkim.com/)
 
-- 💬 Ask me about **Frontend, Full-stack development**
+- 💬 Ask me about **Algorithms & Full-stack development**
 
 - 📫 How to reach me **kimgukil2@gmail.com**
 
