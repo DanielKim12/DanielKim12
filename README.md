@@ -6,7 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielkim12&label=Profile%20views&color=0e75b6&style=flat" alt="danielkim12" /> </p>
 
-- 🔭 I’m currently working on **Shopgirly B2B Full-Stack-web**
+- 🔧 Ongoing project: [email-automation](https://github.com/DanielKim12/email-automation)
+
+- 🛍️ Most recent project: [ShopGirly B2B](https://shopgirly.com/) 
 
 - 👨‍💻 All of my projects are available at [https://gukilkim.com/](https://gukilkim.com/)
 
