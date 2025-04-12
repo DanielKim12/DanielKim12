@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielkim12&label=Profile%20views&color=0e75b6&style=flat" alt="danielkim12" /> </p>
 
-- 🔧 Ongoing project: [email-automation](https://github.com/DanielKim12/email-automation)
+- 🔧 Ongoing project: [Email-Automation](https://github.com/DanielKim12/email-automation)
 
 - 🛍️ Most recent project: [ShopGirly B2B](https://shopgirly.com/) 
 
