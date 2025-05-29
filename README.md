@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gukilkim.com/](https://gukilkim.com/)
 
-- 💬 Ask me about **Algorithms & Full-stack development**
+- 💬 Ask me about **Algorithms & Web development & Network**
 
 - 📫 How to reach me **kimgukil2@gmail.com**
 
