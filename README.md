@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielkim12&label=Profile%20views&color=0e75b6&style=flat" alt="danielkim12" /> </p>
 
-- 🔧 Ongoing project: [Email-Automation](https://github.com/DanielKim12/email-automation)
+- 🔧 Recent project: [Email-Automation](https://github.com/DanielKim12/email-automation)
 
-- 🛍️ Most recent project: [ShopGirly B2B](https://shopgirly.com/) 
+- 🛍️ B2B project: [ShopGirly B2B](https://shopgirly.com/) 
 
 - 👨‍💻 All of my projects are available at [https://gukilkim.com/](https://gukilkim.com/)
 
-- 💬 Ask me about **Algorithms & Web development & Network**
+- 💬 Ask me about **Algorithms**
 
 - 📫 How to reach me **kimgukil2@gmail.com**
 
