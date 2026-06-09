@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm GUK IL KIM</h1>
 
-<h3 align="left">Software Engineer at Graid Tech</h3>
+<h3 align="left">Software Engineer at Graid Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielkim12&label=Profile%20views&color=0e75b6&style=flat" alt="danielkim12" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gukilkim.com/](https://gukilkim.com/)
 
-- 💬 Ask me about **Algorithms**
+- 💬 Ask me about **Storage Solutions**
 
 - 📫 How to reach me **kimgukil2@gmail.com**
 
